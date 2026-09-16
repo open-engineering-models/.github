@@ -1,6 +1,8 @@
-Open Engineering Models
+# Open Engineering Models
 
 Engineering the physical world, one reusable model at a time.
+
+![Open Engineering Models hero-banner.png](../assets/hero-banner.png)
 
 Open Engineering Models is the 3D modeling foundation of the Open Engineering ecosystem.
 
